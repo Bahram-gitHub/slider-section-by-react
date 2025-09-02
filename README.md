@@ -1,0 +1,2 @@
+- In this project we familiar with slider in react 
+- read data from data.js and present them one by one throw slider
